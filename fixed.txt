@@ -1,1 +1,3 @@
 another message for pinkmode
+
+another message for purple mode
