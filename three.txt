@@ -1,2 +1,8 @@
 three new task addd
+<<<<<<< HEAD
 git ndsnfkq
+=======
+git ndsnfkq
+jjfjdfjsdjf
+djdjfds
+>>>>>>> bug-fix
